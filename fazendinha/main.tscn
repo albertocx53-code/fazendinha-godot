@@ -1,0 +1,11 @@
+[gd_scene format=3 uid="uid://cr0upsvy40obp"]
+
+[ext_resource type="Script" uid="uid://6huqtguopyu8" path="res://player.gd" id="1_ig7tw"]
+
+[node name="Main" type="Node2D" unique_id=1866045949]
+
+[node name="player" type="CharacterBody2D" parent="." unique_id=1963412952]
+position = Vector2(3, 3)
+script = ExtResource("1_ig7tw")
+
+[node name="Sprite2D" type="Sprite2D" parent="player" unique_id=1365378400]
