@@ -1,6 +1,0 @@
-[gd_scene format=3 uid="uid://bdnm61gqfd13d"]
-
-[sub_resource type="TileSet" id="TileSet_gdp2v"]
-
-[node name="cenario_grama" type="TileMapLayer" unique_id=1604482828]
-tile_set = SubResource("TileSet_gdp2v")
