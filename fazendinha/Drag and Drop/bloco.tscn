@@ -1,0 +1,19 @@
+[gd_scene format=3 uid="uid://denwcxiyh50qt"]
+
+[ext_resource type="Script" uid="uid://daquafs3hs3ir" path="res://Drag and Drop/bloco.gd" id="1_iyt33"]
+
+[node name="Bloco" type="Panel" unique_id=1365702171]
+offset_left = 28.0
+offset_top = 16.0
+offset_right = 178.0
+offset_bottom = 61.0
+mouse_filter = 1
+script = ExtResource("1_iyt33")
+
+[node name="Label" type="Label" parent="." unique_id=1554069673]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 23.0
+text = "Arar
+"
+horizontal_alignment = 1
